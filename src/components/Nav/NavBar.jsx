@@ -27,7 +27,7 @@ const NavBar = () => {
     },
   ];
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-[#0a192f] fixed">
       <div>
         <h1 className="font-5xl font-signature ml-2 ">Munda</h1>
       </div>
