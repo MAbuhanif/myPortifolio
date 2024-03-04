@@ -14,17 +14,25 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>
-              Hi. I'm Mundino, nice to meet you. Please take a look around.
-            </p>
+            <p>Hi. I'm Mundino Hamure,</p>
+            <p>Please take a look around.</p>
+            <p>I am a Full Stack web Developer.</p>
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I am a passionate Full Stack Web Developer with a strong
+              foundation in both front-end and back-end development. I enjoy the
+              process of transforming ideas and designs into functional websites
+              that provide seamless user experiences.
+            </p>
+            <br />
+            <p>
+              In my development process, I prioritize writing clean, efficient,
+              and maintainable code. I am proficient in a range of programming
+              languages including HTML, CSS, JavaScript, and have expertise in
+              various frameworks such as React.js and Node.js. I am also
+              well-versed in database management, utilizing technologies like
+              MongoDB and SQL to create efficient data models.
             </p>
           </div>
         </div>
