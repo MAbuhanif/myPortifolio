@@ -33,11 +33,10 @@ const Portifolio = () => {
                   About
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
+                  <a href={github} target="_blank">Github</a>
                 </button>
-
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Live
+                  <a href={live} target="_blank">Live</a>
                 </button>
               </div>
             </div>

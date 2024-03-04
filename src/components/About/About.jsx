@@ -25,15 +25,6 @@ const About = () => {
               process of transforming ideas and designs into functional websites
               that provide seamless user experiences.
             </p>
-            <br />
-            <p>
-              In my development process, I prioritize writing clean, efficient,
-              and maintainable code. I am proficient in a range of programming
-              languages including HTML, CSS, JavaScript, and have expertise in
-              various frameworks such as React.js and Node.js. I am also
-              well-versed in database management, utilizing technologies like
-              MongoDB and SQL to create efficient data models.
-            </p>
           </div>
         </div>
       </div>
