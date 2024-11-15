@@ -1,6 +1,6 @@
 import ethiopianHistory from "../../assets/projectsImg/ethiopianHistory.png";
-import netflix from "../../assets/projectsImg/netflix.jpg";
-import forum from "../../assets/projectsImg/forum.jpg";
+import task_manager from "../../assets/projectsImg/taskMgr1.png";
+import taskMgr_terminal from "../../assets/projectsImg/taskMgrTerminal.png";
 
 export const data = [
   {
@@ -11,14 +11,14 @@ export const data = [
   },
   {
     id: 2,
-    image: netflix,
-    github: "https://github.com/MAbuhanif/netflix-2024.git",
-    live: "https://netflixbymundino.netlify.app",
+    image: task_manager,
+    github: "https://mabuhanif.github.io/toDo-list/",
+    live: "https://mabuhanif.github.io/toDo-list/",
   },
   {
     id: 3,
-    image: forum,
-    github: "https://github.com/MAbuhanif/evangadi-forum.git",
-    live: "https://forumbymundino.netlify.app",
+    image: taskMgr_terminal,
+    github: "https://github.com/MAbuhanif/taskManager.git",
+    live: "https://taskm-388f9bd7b7c7.herokuapp.com/",
   },
 ];
