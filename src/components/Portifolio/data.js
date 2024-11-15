@@ -1,13 +1,13 @@
-import amazon from "../../assets/projectsImg/amazon.jpg";
+import ethiopianHistory from "../../assets/projectsImg/ethiopianHistory.png";
 import netflix from "../../assets/projectsImg/netflix.jpg";
 import forum from "../../assets/projectsImg/forum.jpg";
 
 export const data = [
   {
     id: 1,
-    image: amazon,
-    github: "https://github.com/MAbuhanif/Amazon-client.git",
-    live: "https://amazon-clone-mundino.netlify.app",
+    image: ethiopianHistory,
+    github: "https://github.com/MAbuhanif/ethiopian-history.git",
+    live: "https://mabuhanif.github.io/ethiopian-history/",
   },
   {
     id: 2,

@@ -3,6 +3,7 @@ import { data } from "./data";
 
 const Portifolio = () => {
   const portifolios = data;
+  
 
   return (
     <div
