@@ -3,7 +3,6 @@ import { data } from "./data";
 
 const Portifolio = () => {
   const portifolios = data;
-  
 
   return (
     <div
@@ -31,13 +30,14 @@ const Portifolio = () => {
               />
               <div className="flex item-center justify-center ">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  About
+                  <a href={github} target="_blank">
+                    Github
+                  </a>
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  <a href={github} target="_blank">Github</a>
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  <a href={live} target="_blank">Live</a>
+                  <a href={live} target="_blank">
+                    Live
+                  </a>
                 </button>
               </div>
             </div>
