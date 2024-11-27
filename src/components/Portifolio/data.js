@@ -3,6 +3,7 @@ import task_manager from "../../assets/projectsImg/taskMgr1.png";
 import taskMgr_terminal from "../../assets/projectsImg/taskMgrTerminal.png";
 import loveSandwich from "../../assets/projectsImg/loveSandwiches.png";
 import loveRunning from "../../assets/projectsImg/loveRunning.png";
+import thorinCompany from "../../assets/projectsImg/flaskThorin.png";
 
 export const data = [
   {
@@ -34,5 +35,11 @@ export const data = [
     image: loveRunning,
     github: "https://github.com/MAbuhanif/loveRunning.git",
     live: "https://mabuhanif.github.io/loveRunning/",
+  },
+  {
+    id: 6,
+    image: thorinCompany,
+    github: "https://github.com/MAbuhanif/flask-thorin_and_company.git",
+    live: "https://flaskapp-mun-6dde29594883.herokuapp.com/",
   },
 ];
