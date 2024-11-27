@@ -2,6 +2,7 @@ import ethiopianHistory from "../../assets/projectsImg/ethiopianHistory.png";
 import task_manager from "../../assets/projectsImg/taskMgr1.png";
 import taskMgr_terminal from "../../assets/projectsImg/taskMgrTerminal.png";
 import loveSandwich from "../../assets/projectsImg/loveSandwiches.png";
+import loveRunning from "../../assets/projectsImg/loveRunning.png";
 
 export const data = [
   {
@@ -27,5 +28,11 @@ export const data = [
     image: loveSandwich,
     github: "https://github.com/MAbuhanif/loveSandwiches.git",
     live: "https://sandwiches-terminal-9ee30e53d4b6.herokuapp.com/",
+  },
+  {
+    id: 5,
+    image: loveRunning,
+    github: "https://github.com/MAbuhanif/loveRunning.git",
+    live: "https://mabuhanif.github.io/loveRunning/",
   },
 ];
