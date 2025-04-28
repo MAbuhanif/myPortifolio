@@ -1,45 +1,31 @@
 import ethiopianHistory from "../../assets/projectsImg/ethiopianHistory.png";
-import task_manager from "../../assets/projectsImg/taskMgr1.png";
-import loveSandwich from "../../assets/projectsImg/loveSandwiches.png";
-import loveRunning from "../../assets/projectsImg/loveRunning.png";
-import thorinCompany from "../../assets/projectsImg/flaskThorin.png";
+import amriFashion from "../../assets/projectsImg/amriFashion.png";
 import flaskTaskMgr from "../../assets/projectsImg/flaskTaskMgr.png";
+import buratiForum from "../../assets/projectsImg/buratiForum.png";
 
 export const data = [
   {
     id: 1,
+    image: amriFashion,
+    github: "https://github.com/MAbuhanif/amri-fashion.git",
+    live: "https://amri-fashion-aa5dd1ef8dac.herokuapp.com/",
+  },
+  {
+    id: 2,
+    image: buratiForum,
+    github: "https://github.com/MAbuhanif/burati-forum.git",
+    live: "https://buratiforum-c036b7903a26.herokuapp.com/",
+  },
+  {
+    id: 3,
     image: flaskTaskMgr,
     github: "https://github.com/MAbuhanif/flask-task-mgr.git",
     live: "https://flask-task-23c5294900c6.herokuapp.com/",
   },
   {
-    id: 2,
+    id: 4,
     image: ethiopianHistory,
     github: "https://github.com/MAbuhanif/ethiopian-history.git",
     live: "https://mabuhanif.github.io/ethiopian-history/",
-  },
-  {
-    id: 3,
-    image: task_manager,
-    github: "https://mabuhanif.github.io/toDo-list/",
-    live: "https://mabuhanif.github.io/toDo-list/",
-  },
-  {
-    id: 4,
-    image: loveSandwich,
-    github: "https://github.com/MAbuhanif/loveSandwiches.git",
-    live: "https://sandwiches-terminal-9ee30e53d4b6.herokuapp.com/",
-  },
-  {
-    id: 5,
-    image: loveRunning,
-    github: "https://github.com/MAbuhanif/loveRunning.git",
-    live: "https://mabuhanif.github.io/loveRunning/",
-  },
-  {
-    id: 6,
-    image: thorinCompany,
-    github: "https://github.com/MAbuhanif/flask-thorin_and_company.git",
-    live: "https://flaskapp-mun-6dde29594883.herokuapp.com/",
   },
 ];
